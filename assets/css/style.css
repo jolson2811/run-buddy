@@ -203,6 +203,15 @@ header {
     margin-right: 20px;
   }
 
+  .step-img img {
+    max-width: 100%
+  }
+
+  .step-text {
+    flex: 12;
+  }
+
+
   /* Steps Style End */
  
   /* Sections Style Start */
